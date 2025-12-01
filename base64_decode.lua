@@ -12,7 +12,8 @@
     * Follow the README.md for guide on how to get your token.
     * Please don't publicly expose your TOKEN people can accesss your repo(s) if public!!!
 
-    - This script is a usage example that will call a table of localplayer username executing the script;
+    - This script is a usage example that will call a table of localplayer username executing the script.
+    - Will constantly add new names (never) remove, and ignores if name is already in table and keeps it there;
     
     Usernames = {
     "sinsly",
